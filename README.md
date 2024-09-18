@@ -210,6 +210,7 @@ Please run experiments or find results on each config page. Refer to [Mixup Benc
         <li><a href="https://arxiv.org/abs/2111.15454">SAMix</a> (ArXiv'2021) <a href="https://github.com/Westlake-AI/openmixup/tree/main/configs/classification/imagenet/samix">config</a></li>
         <li><a href="https://arxiv.org/abs/2203.10761">DecoupleMix</a> (NeurIPS'2023) <a href="https://github.com/Westlake-AI/openmixup/tree/main/configs/classification/imagenet/mixups/decouple">config</a></li>
         <li><a href="https://arxiv.org/abs/2212.12977">SMMix</a> (ICCV'2023) <a href="https://github.com/Westlake-AI/openmixup/tree/main/configs/classification/imagenet/mixups/">config</a></li>
+        <li><a href="https://arxiv.org/abs/2212.12977">MixPro</a> (ICLR'2023) <a href="https://github.com/Westlake-AI/openmixup/tree/main/configs/classification/imagenet/mixups/">config</a></li>
         <li><a href="https://arxiv.org/abs/2312.11954">AdAutoMix</a> (ICLR'2024) <a href="https://github.com/Westlake-AI/openmixup/tree/main/configs/classification/imagenet/adautomix">config</a></li>
         <li><a href="https://arxiv.org/abs/2407.07805">SUMix</a> (ECCV'2024) </li>
         </ul>
